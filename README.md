@@ -42,3 +42,5 @@ npm start
 ```
 
 Follow the coach instructions and good luck!
+
+### Add Sang Ouk Lee
